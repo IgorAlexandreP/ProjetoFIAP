@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Cadastro de Usuário";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-controller="Cadastro" asp-action="Index" method="post">
+    <div>
+        <label>Nome</label><br />
+        <input type="text" name="nome" />
+    </div>
+    <div>
+        <label>Email</label><br />
+        <input type="email" name="email" />
+    </div>
+    <div>
+        <label>Senha</label><br />
+        <input type="password" name="senha" />
+    </div>
+    <div>
+        <label>Perfil</label><br />
+        <select name="role">
+            <option value="Usuario">Usuário</option>
+            <option value="Administrador">Administrador</option>
+        </select>
+    </div>
+    <button type="submit">Cadastrar</button>
+</form>
+
+@if (ViewBag.Mensagem != null)
+{
+    <p style="color:green">@ViewBag.Mensagem</p>
+}
+@if (ViewBag.Erro != null)
+{
+    <p style="color:red">@ViewBag.Erro</p>
+}

@@ -1,0 +1,15 @@
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\bin\Debug\net9.0\ProjetoFiap.Application.deps.json
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\bin\Debug\net9.0\ProjetoFiap.Application.dll
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\bin\Debug\net9.0\ProjetoFiap.Application.pdb
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\bin\Debug\net9.0\ProjetoFiap.Domain.dll
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\bin\Debug\net9.0\ProjetoFiap.Domain.pdb
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.csproj.AssemblyReference.cache
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.AssemblyInfoInputs.cache
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.AssemblyInfo.cs
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.csproj.CoreCompileInputs.cache
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoF.3727ADCD.Up2Date
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.dll
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\refint\ProjetoFiap.Application.dll
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ProjetoFiap.Application.pdb
+C:\Users\Irgo\source\repos\ProjetoFiap\ProjetoFiap.Application\obj\Debug\net9.0\ref\ProjetoFiap.Application.dll

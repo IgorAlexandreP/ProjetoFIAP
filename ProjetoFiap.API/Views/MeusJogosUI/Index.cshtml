@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ProjetoFiap.Domain.Entities.Jogo>
+
+@{
+    ViewData["Title"] = "Minha Biblioteca";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Preço</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var jogo in Model)
+        {
+            <tr>
+                <td>@jogo.Nome</td>
+                <td>@jogo.Descricao</td>
+                <td>@jogo.Preco</td>
+            </tr>
+        }
+    </tbody>
+</table>

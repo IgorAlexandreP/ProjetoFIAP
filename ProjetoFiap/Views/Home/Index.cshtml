@@ -1,0 +1,144 @@
+﻿@{
+    ViewData["Title"] = "Início";
+    Layout = null; /* ou especifique seu layout se houver */
+}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Bootstrap 5 CSS (opcional, para .card e .form-control) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-ENjdO4Dr2bkBIFxQpeoYz1FEL1hZ7F+GnN+Y5n3zv9zzTtmI3UksdQRVvoxMfooAo"
+          crossorigin="anonymous" />
+
+    <style>
+        /* Container da página de login */
+        .login-page {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background: #121214;
+            padding: 16px;
+        }
+
+        /* Card centralizado */
+        .login-card {
+            background: #1f1f23;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+            max-width: 360px;
+            width: 100%;
+            color: #e1e1e6;
+            overflow: hidden;
+        }
+
+            /* Cabeçalho do card */
+            .login-card .card-header {
+                background: linear-gradient(90deg, #ff7a18 0%, #ffb24b 100%);
+                padding: 20px;
+            }
+
+                .login-card .card-header .display-4 {
+                    margin: 0;
+                    font-size: 1.75rem;
+                    color: #fff;
+                    font-weight: 700;
+                }
+
+            /* Corpo do card */
+            .login-card .card-body {
+                padding: 24px;
+            }
+
+            /* Form groups */
+            .login-card .form-group {
+                margin-bottom: 20px;
+            }
+
+            .login-card .col-form-label {
+                display: block;
+                margin-bottom: 6px;
+                font-size: 0.9rem;
+                color: #c4c4cc;
+            }
+
+            /* Inputs */
+            .login-card .form-control {
+                width: 100%;
+                padding: 10px 12px;
+                font-size: 1rem;
+                background: #2c2c33;
+                border: 1px solid #3a3a40;
+                border-radius: 6px;
+                color: #e1e1e6;
+                transition: border-color 0.3s, box-shadow 0.3s;
+            }
+
+                .login-card .form-control:focus {
+                    outline: none;
+                    border-color: transparent;
+                    box-shadow: 0 0 0 3px rgba(255, 122, 24, 0.3);
+                    background: #2c2c33;
+                }
+
+        /* Botão customizado */
+        .btn-custom {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            color: #fff;
+            background: linear-gradient(135deg, #ff7a18 0%, #ffb24b 100%);
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.1s;
+        }
+
+            .btn-custom:hover {
+                background: linear-gradient(135deg, #ffb24b 0%, #ff7a18 100%);
+            }
+
+            .btn-custom:active {
+                transform: scale(0.98);
+            }
+    </style>
+</head>
+<body>
+    <div class="login-page">
+        <div class="card login-card">
+            <div class="card-header text-center">
+                <h1 class="display-4">Acesso</h1>
+            </div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label for="Login" class="col-form-label">Login:</label>
+                    <input type="text"
+                           id="Login"
+                           class="form-control"
+                           placeholder="Seu usuário" />
+                </div>
+                <div class="form-group">
+                    <label for="Password" class="col-form-label">Senha:</label>
+                    <input type="password"
+                           id="Password"
+                           class="form-control"
+                           placeholder="••••••••" />
+                </div>
+                <button type="button" class="btn-custom">Login</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (opcional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+AMvyTG2xZKRv+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+</body>
+</html>
