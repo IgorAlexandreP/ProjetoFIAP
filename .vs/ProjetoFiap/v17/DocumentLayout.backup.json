@@ -158,8 +158,7 @@
               "RelativeToolTip": "ProjetoFiap.Domain\\Entities\\Jogo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:08:43.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:08:43.062Z"
             },
             {
               "$type": "Document",
@@ -171,8 +170,7 @@
               "RelativeToolTip": "ProjetoFiap.Domain\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:02:27.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:02:27.651Z"
             },
             {
               "$type": "Document",
@@ -184,8 +182,7 @@
               "RelativeToolTip": "ProjetoFiap.Domain\\Entities\\UsuarioJogo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:03:17.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:03:17.145Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "ProjetoFiap.Domain\\Interfaces\\IJogoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:09:32.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:09:32.009Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "ProjetoFiap.Domain\\Interfaces\\IUsuarioJogoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:04:26.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:04:26.298Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "ProjetoFiap.Domain\\Interfaces\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:04:07.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:04:07.645Z"
             },
             {
               "$type": "Document",
@@ -236,8 +230,7 @@
               "RelativeToolTip": "ProjetoFiap.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:05:59.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:05:59.683Z"
             },
             {
               "$type": "Document",
@@ -249,8 +242,7 @@
               "RelativeToolTip": "ProjetoFiap.Infrastructure\\Repositories\\JogoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:10:41.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:10:41.136Z"
             },
             {
               "$type": "Document",
@@ -262,8 +254,7 @@
               "RelativeToolTip": "ProjetoFiap.Infrastructure\\Repositories\\UsuarioJogoRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:18:31.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:18:31.578Z"
             },
             {
               "$type": "Document",
@@ -275,8 +266,7 @@
               "RelativeToolTip": "ProjetoFiap.Infrastructure\\Repositories\\UsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:06:36.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:06:36.255Z"
             },
             {
               "$type": "Document",
@@ -301,8 +291,7 @@
               "RelativeToolTip": "ProjetoFiap.Application\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:05:04.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:05:04.836Z"
             },
             {
               "$type": "Document",
@@ -314,8 +303,7 @@
               "RelativeToolTip": "ProjetoFiap.Application\\Services\\UsuarioJogoService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:05:16.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:05:16.272Z"
             },
             {
               "$type": "Document",
@@ -327,8 +315,7 @@
               "RelativeToolTip": "ProjetoFiap.Application\\Services\\JogoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:13:25.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:13:25.127Z"
             },
             {
               "$type": "Document",
@@ -340,8 +327,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:36:21.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:36:21.856Z"
             },
             {
               "$type": "Document",
@@ -353,8 +339,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\Cadastro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:28:45.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:28:45.364Z"
             },
             {
               "$type": "Document",
@@ -366,8 +351,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\JogosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:14:56.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:14:56.36Z"
             },
             {
               "$type": "Document",
@@ -379,8 +363,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:24:57.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:24:57.456Z"
             },
             {
               "$type": "Document",
@@ -392,8 +375,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\MeuJogosUIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:08:16.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:08:16.382Z"
             },
             {
               "$type": "Document",
@@ -405,8 +387,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\UsuarioJogoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:07:42.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:07:42.702Z"
             },
             {
               "$type": "Document",
@@ -418,8 +399,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Controllers\\UsuariosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:36:42.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:36:42.551Z"
             },
             {
               "$type": "Document",
@@ -431,8 +411,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Views\\Cadastro\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T22:27:38.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:27:38.705Z"
             },
             {
               "$type": "Document",
@@ -444,8 +423,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Views\\Login\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:25:20.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:25:20.877Z"
             },
             {
               "$type": "Document",
@@ -457,8 +435,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Views\\MeusJogosUI\\Index.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:09:07.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:09:07.239Z"
             },
             {
               "$type": "Document",
@@ -470,8 +447,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:30:35.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:30:35.872Z"
             },
             {
               "$type": "Document",
@@ -483,8 +459,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:38:59.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:38:59.064Z"
             },
             {
               "$type": "Document",
@@ -496,8 +471,7 @@
               "RelativeToolTip": "ProjetoFiap.API\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:31:05.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:31:05.292Z"
             },
             {
               "$type": "Document",
